@@ -1,1 +1,3 @@
-# projZ-BOTNET-V1.2
+# projZ BOTNET V1.2
+
+# Stable, slow
